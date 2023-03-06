@@ -152,6 +152,6 @@ Para acessar mais exemplos visite, https://github.com/shawfdong/modulefiles
 
 ### Referências
 
-https://modules.readthedocs.io/en/latest/index.html
-https://www.ibm.com/support/pages/using-environment-modules-manage-user-environment-platform-hpc
-https://modules.sourceforge.net/
+* https://modules.readthedocs.io/en/latest/index.html
+* https://www.ibm.com/support/pages/using-environment-modules-manage-user-environment-platform-hpc
+* https://modules.sourceforge.net/
