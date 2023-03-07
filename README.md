@@ -150,6 +150,20 @@ conflict        python
 
 Para acessar mais exemplos visite, https://github.com/shawfdong/modulefiles
 
+### Inicializando os módulos de forma automática
+
+vi /etc/bash.bashrc
+
+```
+#
+# End of /etc/bash.bashrc
+#
+#
+. /usr/share/Modules/init/sh
+module load nvhpc/23.1
+
+```
+
 ### Referências
 
 * https://modules.readthedocs.io/en/latest/index.html
